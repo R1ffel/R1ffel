@@ -1,10 +1,10 @@
-## Hi there, I'm Kudrin Artem👋
+Hi there, I'm Kudrin Artem👋
 
-# I'm Data Analyst!
-## 🌱 Education
+## I'm Data Analyst!
+### 🌱 Education
 - "Information security", Russian State University for the Humanities (2023-2027)
 - "Advanced data analyst", Yandex Practicum (2024-2025, 12 months) 
-## 📫 How to reach me
+### 📫 How to reach me
 - r1ffel2005@yandex.ru
 - http://t.me/r1ffel
 
