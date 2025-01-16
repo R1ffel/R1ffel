@@ -8,7 +8,7 @@ Hi there, I'm Kudrin Artem👋
 - Python (Pandas, Matplotlib, Plotly, Seaborn)
 - SQL (PostgreSQL)
 - Tableau
-### 📫 How to reach me
+### 📫 Connect with me
 - r1ffel2005@yandex.ru
 - http://t.me/r1ffel
 <!--
