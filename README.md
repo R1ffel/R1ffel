@@ -5,7 +5,7 @@ Hi there, I'm Kudrin Artem👋
 - "Information security", Russian State University for the Humanities (2023-2027)
 - "Advanced data analyst", Yandex Practicum (2024-2025, 12 months) 
 ### 🛠 Technologies and tools
-- Python ( (Pandas, matplotlib, plotly, seaborn, scipy, numpy, sklearn, sqlalchemy, folium))
+- Python (Pandas, matplotlib, plotly, seaborn, scipy, numpy, sklearn, sqlalchemy, folium)
 - SQL (PostgreSQL, MySQL, SQLite)
 - Tableau, Power BI
 - MS Excel
